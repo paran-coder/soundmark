@@ -1,0 +1,62 @@
+[
+  {
+    "id": "sfx-151",
+    "success": true,
+    "input_sha256": "c1fc302cf13b627dbe905fac66d814dcf4b059463bd619bb68ecda335f819750",
+    "preview_sha256": "aeb7049ac02c2bcc8289c7fc47ee35fca0fba062d55f0f18125d245deabb7855",
+    "input_bytes": 1057062,
+    "preview_bytes": 96620,
+    "source_duration": 66.038,
+    "preview_duration": 12.048,
+    "peak_dbfs": -14.1,
+    "rms_dbfs": -27.0,
+    "clip_fraction": 0.0,
+    "codec": "mp3",
+    "file": "sfx-151.mp3"
+  },
+  {
+    "id": "sfx-152",
+    "success": true,
+    "input_sha256": "d6ab4ac3dd2c800738931d98bfb31dae8ad60a3298a0bd4f0220619c004363ae",
+    "preview_sha256": "c9abd67e689cea903e631bcdcee71c9fd8168e6bbb819e99d5b4c85ae9891d10",
+    "input_bytes": 1441167,
+    "preview_bytes": 96620,
+    "source_duration": 90.044,
+    "preview_duration": 12.048,
+    "peak_dbfs": -14.0,
+    "rms_dbfs": -27.5,
+    "clip_fraction": 0.0,
+    "codec": "mp3",
+    "file": "sfx-152.mp3"
+  },
+  {
+    "id": "sfx-153",
+    "success": true,
+    "input_sha256": "467fb10f5fc05071a8818ca73c55a97edc388ca9e4747d3a90373a724011ec9c",
+    "preview_sha256": "10103404cf7657c7c79bcb542f9db2cd5e2006fc40135998de6eb6270d58b6b8",
+    "input_bytes": 1441167,
+    "preview_bytes": 96620,
+    "source_duration": 90.044,
+    "preview_duration": 12.048,
+    "peak_dbfs": -19.6,
+    "rms_dbfs": -36.4,
+    "clip_fraction": 0.0,
+    "codec": "mp3",
+    "file": "sfx-153.mp3"
+  },
+  {
+    "id": "sfx-154",
+    "success": true,
+    "input_sha256": "7ad6034235a9021755e47a5e09cf93a2759837153d79005269787dd852de34b2",
+    "preview_sha256": "ef4aa3abad1001a069e5ebbfbaab120e7bea48d00e474fa1ae1fe20b75a8c9a1",
+    "input_bytes": 1057062,
+    "preview_bytes": 96620,
+    "source_duration": 66.038,
+    "preview_duration": 12.048,
+    "peak_dbfs": -10.1,
+    "rms_dbfs": -30.0,
+    "clip_fraction": 0.0,
+    "codec": "mp3",
+    "file": "sfx-154.mp3"
+  }
+]

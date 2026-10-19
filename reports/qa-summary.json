@@ -1,0 +1,19 @@
+{
+  "selected": 100,
+  "unique_source_bytes": 100,
+  "category_counts": {
+    "생활·동작음": 41,
+    "자연·환경음": 13,
+    "화면 전환·Whoosh": 7,
+    "임팩트·충격음": 21,
+    "기계·교통음": 10,
+    "분위기·SF": 7,
+    "UI·코믹": 1
+  },
+  "actual_audio_decode_qa_pass": 100,
+  "separate_mp3_previews_generated": 100,
+  "final_human_semantic_listening_verified": 0,
+  "final_individual_upstream_rights_verified": 6,
+  "final_publicly_approved": 0,
+  "status": "READY_FOR_DEMO_NOT_FINAL_PUBLIC_RELEASE"
+}
