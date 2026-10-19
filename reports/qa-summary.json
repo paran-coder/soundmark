@@ -15,5 +15,11 @@
   "final_human_semantic_listening_verified": 0,
   "final_individual_upstream_rights_verified": 6,
   "final_publicly_approved": 0,
-  "status": "READY_FOR_DEMO_NOT_FINAL_PUBLIC_RELEASE"
+  "status": "READY_FOR_DEMO_NOT_FINAL_PUBLIC_RELEASE",
+  "source_links_head_verified_200": 100,
+  "browser_render_test": "NOT_EXECUTED",
+  "source_link_checked": "100/100 HTTP 200 with HEAD at validation time",
+  "version": "1.5.1",
+  "actual_preview_files_named_descriptively": 100,
+  "unchanged_original_download_urls": 100
 }

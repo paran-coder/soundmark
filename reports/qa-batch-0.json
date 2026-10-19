@@ -12,7 +12,7 @@
     "rms_dbfs": -32.2,
     "clip_fraction": 0.0,
     "codec": "pcm_s16le",
-    "file": "sfx-001.mp3"
+    "file": "felt-tip-pen-lines.mp3"
   },
   {
     "id": "sfx-002",
@@ -27,7 +27,7 @@
     "rms_dbfs": -35.9,
     "clip_fraction": 0.0,
     "codec": "pcm_s16le",
-    "file": "sfx-002.mp3"
+    "file": "felt-tip-pen-scribbling.mp3"
   },
   {
     "id": "sfx-003",
@@ -57,7 +57,7 @@
     "rms_dbfs": -20.6,
     "clip_fraction": 0.00027,
     "codec": "pcm_s16le",
-    "file": "sfx-004.mp3"
+    "file": "hardcover-tap.mp3"
   },
   {
     "id": "sfx-005",
@@ -87,7 +87,7 @@
     "rms_dbfs": -38.1,
     "clip_fraction": 0.0,
     "codec": "pcm_s16le",
-    "file": "sfx-006.mp3"
+    "file": "mech-pencil-click.mp3"
   },
   {
     "id": "sfx-007",
@@ -132,7 +132,7 @@
     "rms_dbfs": -36.9,
     "clip_fraction": 0.0,
     "codec": "pcm_s16le",
-    "file": "sfx-009.mp3"
+    "file": "mech-pencil-writing.mp3"
   },
   {
     "id": "sfx-010",
@@ -147,7 +147,7 @@
     "rms_dbfs": -35.5,
     "clip_fraction": 0.0,
     "codec": "pcm_s16le",
-    "file": "sfx-010.mp3"
+    "file": "page-turn.mp3"
   },
   {
     "id": "sfx-011",
@@ -162,7 +162,7 @@
     "rms_dbfs": -35.6,
     "clip_fraction": 0.0,
     "codec": "pcm_s16le",
-    "file": "sfx-011.mp3"
+    "file": "page-turn-fast.mp3"
   },
   {
     "id": "sfx-012",
@@ -177,7 +177,7 @@
     "rms_dbfs": -43.5,
     "clip_fraction": 0.0,
     "codec": "pcm_s16le",
-    "file": "sfx-012.mp3"
+    "file": "pen-cap-clicks.mp3"
   },
   {
     "id": "sfx-013",
@@ -192,7 +192,7 @@
     "rms_dbfs": -36.0,
     "clip_fraction": 0.0,
     "codec": "pcm_s16le",
-    "file": "sfx-013.mp3"
+    "file": "bottle-shake.mp3"
   },
   {
     "id": "sfx-014",
@@ -207,7 +207,7 @@
     "rms_dbfs": -33.7,
     "clip_fraction": 0.0,
     "codec": "pcm_s16le",
-    "file": "sfx-014.mp3"
+    "file": "plop-airy.mp3"
   },
   {
     "id": "sfx-015",
@@ -237,7 +237,7 @@
     "rms_dbfs": -33.4,
     "clip_fraction": 0.0,
     "codec": "pcm_s16le",
-    "file": "sfx-016.mp3"
+    "file": "plop-viscous.mp3"
   },
   {
     "id": "sfx-017",
@@ -267,7 +267,7 @@
     "rms_dbfs": -30.3,
     "clip_fraction": 0.0,
     "codec": "pcm_s16le",
-    "file": "sfx-018.mp3"
+    "file": "button-push.mp3"
   },
   {
     "id": "sfx-019",
@@ -297,7 +297,7 @@
     "rms_dbfs": -28.3,
     "clip_fraction": 0.0,
     "codec": "pcm_s16le",
-    "file": "sfx-020.mp3"
+    "file": "keyboard-key-combo.mp3"
   },
   {
     "id": "sfx-021",
@@ -312,7 +312,7 @@
     "rms_dbfs": -29.5,
     "clip_fraction": 6e-05,
     "codec": "pcm_s16le",
-    "file": "sfx-021.mp3"
+    "file": "keyboard-typing.mp3"
   },
   {
     "id": "sfx-022",
@@ -327,7 +327,7 @@
     "rms_dbfs": -32.4,
     "clip_fraction": 0.0,
     "codec": "pcm_s16le",
-    "file": "sfx-022.mp3"
+    "file": "allergies-roll.mp3"
   },
   {
     "id": "sfx-023",
@@ -357,7 +357,7 @@
     "rms_dbfs": -19.9,
     "clip_fraction": 0.00051,
     "codec": "pcm_s16le",
-    "file": "sfx-024.mp3"
+    "file": "bottle-pop.mp3"
   },
   {
     "id": "sfx-025",
@@ -372,7 +372,7 @@
     "rms_dbfs": -27.3,
     "clip_fraction": 0.0,
     "codec": "pcm_s16le",
-    "file": "sfx-025.mp3"
+    "file": "cap-click.mp3"
   },
   {
     "id": "sfx-026",
@@ -402,7 +402,7 @@
     "rms_dbfs": -28.6,
     "clip_fraction": 0.0,
     "codec": "pcm_s16le",
-    "file": "sfx-027.mp3"
+    "file": "big-knife-scrape.mp3"
   },
   {
     "id": "sfx-028",
@@ -417,7 +417,7 @@
     "rms_dbfs": -35.3,
     "clip_fraction": 0.0,
     "codec": "pcm_s16le",
-    "file": "sfx-028.mp3"
+    "file": "big-knife-sheath.mp3"
   },
   {
     "id": "sfx-029",
@@ -447,7 +447,7 @@
     "rms_dbfs": -43.4,
     "clip_fraction": 0.0,
     "codec": "pcm_s16le",
-    "file": "sfx-030.mp3"
+    "file": "big-knife-unsheath.mp3"
   },
   {
     "id": "sfx-031",
@@ -477,7 +477,7 @@
     "rms_dbfs": -41.8,
     "clip_fraction": 0.0,
     "codec": "pcm_s16le",
-    "file": "sfx-032.mp3"
+    "file": "caress-paper.mp3"
   },
   {
     "id": "sfx-033",
@@ -492,7 +492,7 @@
     "rms_dbfs": -39.0,
     "clip_fraction": 0.0,
     "codec": "pcm_s16le",
-    "file": "sfx-033.mp3"
+    "file": "cut-paper.mp3"
   },
   {
     "id": "sfx-034",
@@ -507,7 +507,7 @@
     "rms_dbfs": -43.7,
     "clip_fraction": 0.0,
     "codec": "pcm_s16le",
-    "file": "sfx-034.mp3"
+    "file": "dry-cut.mp3"
   },
   {
     "id": "sfx-035",
@@ -522,7 +522,7 @@
     "rms_dbfs": -32.5,
     "clip_fraction": 0.0,
     "codec": "pcm_s16le",
-    "file": "sfx-035.mp3"
+    "file": "floppy-paper.mp3"
   },
   {
     "id": "sfx-036",
@@ -552,7 +552,7 @@
     "rms_dbfs": -20.4,
     "clip_fraction": 0.00306,
     "codec": "pcm_s16le",
-    "file": "sfx-037.mp3"
+    "file": "small-can-crush.mp3"
   },
   {
     "id": "sfx-038",
@@ -582,7 +582,7 @@
     "rms_dbfs": -31.4,
     "clip_fraction": 0.0,
     "codec": "pcm_s16le",
-    "file": "sfx-039.mp3"
+    "file": "small-can-drag-on-tile.mp3"
   },
   {
     "id": "sfx-040",
@@ -597,7 +597,7 @@
     "rms_dbfs": -17.5,
     "clip_fraction": 0.00163,
     "codec": "pcm_s16le",
-    "file": "sfx-040.mp3"
+    "file": "small-can-flick-tab.mp3"
   },
   {
     "id": "sfx-041",
@@ -627,7 +627,7 @@
     "rms_dbfs": -36.3,
     "clip_fraction": 0.0,
     "codec": "vorbis",
-    "file": "sfx-042.mp3"
+    "file": "belt-handle.mp3"
   },
   {
     "id": "sfx-043",
@@ -642,7 +642,7 @@
     "rms_dbfs": -16.5,
     "clip_fraction": 0.00921,
     "codec": "vorbis",
-    "file": "sfx-043.mp3"
+    "file": "book-close.mp3"
   },
   {
     "id": "sfx-044",
@@ -672,7 +672,7 @@
     "rms_dbfs": -31.4,
     "clip_fraction": 0.0,
     "codec": "vorbis",
-    "file": "sfx-045.mp3"
+    "file": "book-open.mp3"
   },
   {
     "id": "sfx-046",
@@ -687,7 +687,7 @@
     "rms_dbfs": -14.9,
     "clip_fraction": 0.00813,
     "codec": "vorbis",
-    "file": "sfx-046.mp3"
+    "file": "book-place.mp3"
   },
   {
     "id": "sfx-047",
@@ -702,7 +702,7 @@
     "rms_dbfs": -33.8,
     "clip_fraction": 0.0,
     "codec": "vorbis",
-    "file": "sfx-047.mp3"
+    "file": "cloth-movement.mp3"
   },
   {
     "id": "sfx-048",
@@ -732,7 +732,7 @@
     "rms_dbfs": -18.8,
     "clip_fraction": 0.0,
     "codec": "vorbis",
-    "file": "sfx-049.mp3"
+    "file": "creak.mp3"
   },
   {
     "id": "sfx-050",
@@ -747,6 +747,6 @@
     "rms_dbfs": -16.4,
     "clip_fraction": 0.00114,
     "codec": "vorbis",
-    "file": "sfx-050.mp3"
+    "file": "door-close.mp3"
   }
 ]

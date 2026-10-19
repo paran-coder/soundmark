@@ -1,0 +1,502 @@
+[
+  {
+    "id": "sfx-001",
+    "old": "sfx-001.mp3",
+    "new": "felt-tip-pen-lines.mp3"
+  },
+  {
+    "id": "sfx-002",
+    "old": "sfx-002.mp3",
+    "new": "felt-tip-pen-scribbling.mp3"
+  },
+  {
+    "id": "sfx-004",
+    "old": "sfx-004.mp3",
+    "new": "hardcover-tap.mp3"
+  },
+  {
+    "id": "sfx-006",
+    "old": "sfx-006.mp3",
+    "new": "mech-pencil-click.mp3"
+  },
+  {
+    "id": "sfx-009",
+    "old": "sfx-009.mp3",
+    "new": "mech-pencil-writing.mp3"
+  },
+  {
+    "id": "sfx-010",
+    "old": "sfx-010.mp3",
+    "new": "page-turn.mp3"
+  },
+  {
+    "id": "sfx-011",
+    "old": "sfx-011.mp3",
+    "new": "page-turn-fast.mp3"
+  },
+  {
+    "id": "sfx-012",
+    "old": "sfx-012.mp3",
+    "new": "pen-cap-clicks.mp3"
+  },
+  {
+    "id": "sfx-013",
+    "old": "sfx-013.mp3",
+    "new": "bottle-shake.mp3"
+  },
+  {
+    "id": "sfx-014",
+    "old": "sfx-014.mp3",
+    "new": "plop-airy.mp3"
+  },
+  {
+    "id": "sfx-016",
+    "old": "sfx-016.mp3",
+    "new": "plop-viscous.mp3"
+  },
+  {
+    "id": "sfx-018",
+    "old": "sfx-018.mp3",
+    "new": "button-push.mp3"
+  },
+  {
+    "id": "sfx-020",
+    "old": "sfx-020.mp3",
+    "new": "keyboard-key-combo.mp3"
+  },
+  {
+    "id": "sfx-021",
+    "old": "sfx-021.mp3",
+    "new": "keyboard-typing.mp3"
+  },
+  {
+    "id": "sfx-022",
+    "old": "sfx-022.mp3",
+    "new": "allergies-roll.mp3"
+  },
+  {
+    "id": "sfx-024",
+    "old": "sfx-024.mp3",
+    "new": "bottle-pop.mp3"
+  },
+  {
+    "id": "sfx-025",
+    "old": "sfx-025.mp3",
+    "new": "cap-click.mp3"
+  },
+  {
+    "id": "sfx-027",
+    "old": "sfx-027.mp3",
+    "new": "big-knife-scrape.mp3"
+  },
+  {
+    "id": "sfx-028",
+    "old": "sfx-028.mp3",
+    "new": "big-knife-sheath.mp3"
+  },
+  {
+    "id": "sfx-030",
+    "old": "sfx-030.mp3",
+    "new": "big-knife-unsheath.mp3"
+  },
+  {
+    "id": "sfx-032",
+    "old": "sfx-032.mp3",
+    "new": "caress-paper.mp3"
+  },
+  {
+    "id": "sfx-033",
+    "old": "sfx-033.mp3",
+    "new": "cut-paper.mp3"
+  },
+  {
+    "id": "sfx-034",
+    "old": "sfx-034.mp3",
+    "new": "dry-cut.mp3"
+  },
+  {
+    "id": "sfx-035",
+    "old": "sfx-035.mp3",
+    "new": "floppy-paper.mp3"
+  },
+  {
+    "id": "sfx-037",
+    "old": "sfx-037.mp3",
+    "new": "small-can-crush.mp3"
+  },
+  {
+    "id": "sfx-039",
+    "old": "sfx-039.mp3",
+    "new": "small-can-drag-on-tile.mp3"
+  },
+  {
+    "id": "sfx-040",
+    "old": "sfx-040.mp3",
+    "new": "small-can-flick-tab.mp3"
+  },
+  {
+    "id": "sfx-042",
+    "old": "sfx-042.mp3",
+    "new": "belt-handle.mp3"
+  },
+  {
+    "id": "sfx-043",
+    "old": "sfx-043.mp3",
+    "new": "book-close.mp3"
+  },
+  {
+    "id": "sfx-045",
+    "old": "sfx-045.mp3",
+    "new": "book-open.mp3"
+  },
+  {
+    "id": "sfx-046",
+    "old": "sfx-046.mp3",
+    "new": "book-place.mp3"
+  },
+  {
+    "id": "sfx-047",
+    "old": "sfx-047.mp3",
+    "new": "cloth-movement.mp3"
+  },
+  {
+    "id": "sfx-049",
+    "old": "sfx-049.mp3",
+    "new": "creak.mp3"
+  },
+  {
+    "id": "sfx-050",
+    "old": "sfx-050.mp3",
+    "new": "door-close.mp3"
+  },
+  {
+    "id": "sfx-051",
+    "old": "sfx-051.mp3",
+    "new": "door-open.mp3"
+  },
+  {
+    "id": "sfx-052",
+    "old": "sfx-052.mp3",
+    "new": "dishes.mp3"
+  },
+  {
+    "id": "sfx-057",
+    "old": "sfx-057.mp3",
+    "new": "key-unlock.mp3"
+  },
+  {
+    "id": "sfx-063",
+    "old": "sfx-063.mp3",
+    "new": "water-boiling.mp3"
+  },
+  {
+    "id": "sfx-064",
+    "old": "sfx-064.mp3",
+    "new": "water-flowing.mp3"
+  },
+  {
+    "id": "sfx-067",
+    "old": "sfx-067.mp3",
+    "new": "bubble.mp3"
+  },
+  {
+    "id": "sfx-068",
+    "old": "sfx-068.mp3",
+    "new": "bubble-loop.mp3"
+  },
+  {
+    "id": "sfx-069",
+    "old": "sfx-069.mp3",
+    "new": "rain-loop.mp3"
+  },
+  {
+    "id": "sfx-070",
+    "old": "sfx-070.mp3",
+    "new": "water-loop.mp3"
+  },
+  {
+    "id": "sfx-072",
+    "old": "sfx-072.mp3",
+    "new": "splash.mp3"
+  },
+  {
+    "id": "sfx-073",
+    "old": "sfx-073.mp3",
+    "new": "air-sound.mp3"
+  },
+  {
+    "id": "sfx-076",
+    "old": "sfx-076.mp3",
+    "new": "wet-footsteps.mp3"
+  },
+  {
+    "id": "sfx-077",
+    "old": "sfx-077.mp3",
+    "new": "wooden-footsteps.mp3"
+  },
+  {
+    "id": "sfx-149",
+    "old": "sfx-149.mp3",
+    "new": "ocean-waves.mp3"
+  },
+  {
+    "id": "sfx-150",
+    "old": "sfx-150.mp3",
+    "new": "rain-on-window.mp3"
+  },
+  {
+    "id": "sfx-151",
+    "old": "sfx-151.mp3",
+    "new": "fireplace-crackling.mp3"
+  },
+  {
+    "id": "sfx-152",
+    "old": "sfx-152.mp3",
+    "new": "wind-ambience.mp3"
+  },
+  {
+    "id": "sfx-153",
+    "old": "sfx-153.mp3",
+    "new": "morning-birds.mp3"
+  },
+  {
+    "id": "sfx-154",
+    "old": "sfx-154.mp3",
+    "new": "flowing-creek.mp3"
+  },
+  {
+    "id": "sfx-079",
+    "old": "sfx-079.mp3",
+    "new": "object-breaking.mp3"
+  },
+  {
+    "id": "sfx-080",
+    "old": "sfx-080.mp3",
+    "new": "object-falling.mp3"
+  },
+  {
+    "id": "sfx-081",
+    "old": "sfx-081.mp3",
+    "new": "glass-breaking.mp3"
+  },
+  {
+    "id": "sfx-082",
+    "old": "sfx-082.mp3",
+    "new": "glass-falling.mp3"
+  },
+  {
+    "id": "sfx-083",
+    "old": "sfx-083.mp3",
+    "new": "glass-hit.mp3"
+  },
+  {
+    "id": "sfx-084",
+    "old": "sfx-084.mp3",
+    "new": "generic-impact.mp3"
+  },
+  {
+    "id": "sfx-085",
+    "old": "sfx-085.mp3",
+    "new": "metal-falling.mp3"
+  },
+  {
+    "id": "sfx-086",
+    "old": "sfx-086.mp3",
+    "new": "metal-hit.mp3"
+  },
+  {
+    "id": "sfx-088",
+    "old": "sfx-088.mp3",
+    "new": "rock-breaking.mp3"
+  },
+  {
+    "id": "sfx-089",
+    "old": "sfx-089.mp3",
+    "new": "rock-falling.mp3"
+  },
+  {
+    "id": "sfx-096",
+    "old": "sfx-096.mp3",
+    "new": "impact-bell-heavy.mp3"
+  },
+  {
+    "id": "sfx-098",
+    "old": "sfx-098.mp3",
+    "new": "impact-glass-heavy.mp3"
+  },
+  {
+    "id": "sfx-099",
+    "old": "sfx-099.mp3",
+    "new": "impact-glass-light.mp3"
+  },
+  {
+    "id": "sfx-100",
+    "old": "sfx-100.mp3",
+    "new": "impact-glass-medium.mp3"
+  },
+  {
+    "id": "sfx-102",
+    "old": "sfx-102.mp3",
+    "new": "impact-metal-light.mp3"
+  },
+  {
+    "id": "sfx-104",
+    "old": "sfx-104.mp3",
+    "new": "hammer.mp3"
+  },
+  {
+    "id": "sfx-106",
+    "old": "sfx-106.mp3",
+    "new": "metal-close.mp3"
+  },
+  {
+    "id": "sfx-107",
+    "old": "sfx-107.mp3",
+    "new": "metal-falling-02.mp3"
+  },
+  {
+    "id": "sfx-108",
+    "old": "sfx-108.mp3",
+    "new": "metal-hit-02.mp3"
+  },
+  {
+    "id": "sfx-111",
+    "old": "sfx-111.mp3",
+    "new": "metal-slam.mp3"
+  },
+  {
+    "id": "sfx-112",
+    "old": "sfx-112.mp3",
+    "new": "cable-coiler.mp3"
+  },
+  {
+    "id": "sfx-113",
+    "old": "sfx-113.mp3",
+    "new": "click-button.mp3"
+  },
+  {
+    "id": "sfx-114",
+    "old": "sfx-114.mp3",
+    "new": "jagged-scissors.mp3"
+  },
+  {
+    "id": "sfx-115",
+    "old": "sfx-115.mp3",
+    "new": "pipe-wrench.mp3"
+  },
+  {
+    "id": "sfx-116",
+    "old": "sfx-116.mp3",
+    "new": "ratchet-harsh.mp3"
+  },
+  {
+    "id": "sfx-117",
+    "old": "sfx-117.mp3",
+    "new": "ratchet-muted.mp3"
+  },
+  {
+    "id": "sfx-118",
+    "old": "sfx-118.mp3",
+    "new": "spring-loaded-blade.mp3"
+  },
+  {
+    "id": "sfx-119",
+    "old": "sfx-119.mp3",
+    "new": "big-metal-brush.mp3"
+  },
+  {
+    "id": "sfx-122",
+    "old": "sfx-122.mp3",
+    "new": "close-drawer.mp3"
+  },
+  {
+    "id": "sfx-123",
+    "old": "sfx-123.mp3",
+    "new": "crinkly-plastic.mp3"
+  },
+  {
+    "id": "sfx-124",
+    "old": "sfx-124.mp3",
+    "new": "drawer-move.mp3"
+  },
+  {
+    "id": "sfx-125",
+    "old": "sfx-125.mp3",
+    "new": "flashlight-clicky.mp3"
+  },
+  {
+    "id": "sfx-126",
+    "old": "sfx-126.mp3",
+    "new": "classic-swish.mp3"
+  },
+  {
+    "id": "sfx-127",
+    "old": "sfx-127.mp3",
+    "new": "combo-whoosh.mp3"
+  },
+  {
+    "id": "sfx-128",
+    "old": "sfx-128.mp3",
+    "new": "gentle-swish.mp3"
+  },
+  {
+    "id": "sfx-129",
+    "old": "sfx-129.mp3",
+    "new": "slash-whoosh.mp3"
+  },
+  {
+    "id": "sfx-130",
+    "old": "sfx-130.mp3",
+    "new": "swish-whoosh.mp3"
+  },
+  {
+    "id": "sfx-131",
+    "old": "sfx-131.mp3",
+    "new": "thunk.mp3"
+  },
+  {
+    "id": "sfx-132",
+    "old": "sfx-132.mp3",
+    "new": "twirl-whoosh.mp3"
+  },
+  {
+    "id": "sfx-134",
+    "old": "sfx-134.mp3",
+    "new": "unusual-sound-effect.mp3"
+  },
+  {
+    "id": "sfx-135",
+    "old": "sfx-135.mp3",
+    "new": "explosion-effect.mp3"
+  },
+  {
+    "id": "sfx-136",
+    "old": "sfx-136.mp3",
+    "new": "ambient-loop.mp3"
+  },
+  {
+    "id": "sfx-137",
+    "old": "sfx-137.mp3",
+    "new": "unusual-ambient-loop.mp3"
+  },
+  {
+    "id": "sfx-138",
+    "old": "sfx-138.mp3",
+    "new": "machine-loop.mp3"
+  },
+  {
+    "id": "sfx-139",
+    "old": "sfx-139.mp3",
+    "new": "retro-beep.mp3"
+  },
+  {
+    "id": "sfx-143",
+    "old": "sfx-143.mp3",
+    "new": "burbling-sound.mp3"
+  },
+  {
+    "id": "sfx-147",
+    "old": "sfx-147.mp3",
+    "new": "confirmation-tone.mp3"
+  }
+]

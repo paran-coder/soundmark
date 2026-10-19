@@ -11,7 +11,8 @@ def run(s):
  if p.returncode:raise ValueError((p.stderr or b'bad conversion').decode('utf8','ignore')[-200:])
  return p.stdout
 def process(x):
- p=ROOT/'assets/previews'/f"{x['id']}.mp3"
+ names={row['id']:row['preview'] for row in json.loads((ROOT/'data/catalog.json').read_text())['items']} if (ROOT/'data/catalog.json').is_file() else {}
+ p=ROOT/(names.get(x['id']) or ('assets/previews/'+x['id']+'.mp3'))
  with tempfile.TemporaryDirectory(prefix='sm-') as t:
   src=Path(t)/('source'+Path(x['filename']).suffix)
   for k in range(2):

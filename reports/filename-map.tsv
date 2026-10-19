@@ -1,0 +1,101 @@
+id	previous_preview_filename	new_preview_filename	korean_title	upstream_original_filename	naming_basis
+sfx-001	sfx-001.mp3	felt-tip-pen-lines.mp3	펠트펜 선 긋기	Fine Felt Tip Lines.wav	publisher filename; acoustic semantic verification pending
+sfx-002	sfx-002.mp3	felt-tip-pen-scribbling.mp3	펠트펜 낙서	Fine Felt Tip Scribbles 1.wav	publisher filename; acoustic semantic verification pending
+sfx-004	sfx-004.mp3	hardcover-tap.mp3	두꺼운 책 두드리기	Hardcover Tap 2.wav	publisher filename; acoustic semantic verification pending
+sfx-006	sfx-006.mp3	mech-pencil-click.mp3	샤프 클릭	Mech Pencil Click 2.wav	publisher filename; acoustic semantic verification pending
+sfx-009	sfx-009.mp3	mech-pencil-writing.mp3	샤프로 글씨 쓰기	Mech Pencil Writing 2.wav	publisher filename; acoustic semantic verification pending
+sfx-010	sfx-010.mp3	page-turn.mp3	책장 넘기기	Page Turn 3.wav	publisher filename; acoustic semantic verification pending
+sfx-011	sfx-011.mp3	page-turn-fast.mp3	빠르게 책장 넘기기	Page Turn Fast.wav	publisher filename; acoustic semantic verification pending
+sfx-012	sfx-012.mp3	pen-cap-clicks.mp3	펜 뚜껑 클릭	Pen Cap Clicks 2.wav	publisher filename; acoustic semantic verification pending
+sfx-013	sfx-013.mp3	bottle-shake.mp3	병 흔들기	Bottle - Shake 2.wav	publisher filename; acoustic semantic verification pending
+sfx-014	sfx-014.mp3	plop-airy.mp3	가벼운 퐁당 소리	Plop - Airy 1.wav	publisher filename; acoustic semantic verification pending
+sfx-016	sfx-016.mp3	plop-viscous.mp3	묵직한 퐁당 소리	Plop - Viscous 4.wav	publisher filename; acoustic semantic verification pending
+sfx-018	sfx-018.mp3	button-push.mp3	버튼 누르기	Button - Push 3.wav	publisher filename; acoustic semantic verification pending
+sfx-020	sfx-020.mp3	keyboard-key-combo.mp3	키보드 키 조합	Keyboard - Key Combo 5.wav	publisher filename; acoustic semantic verification pending
+sfx-021	sfx-021.mp3	keyboard-typing.mp3	키보드 타이핑	Keyboard - Typing 1.wav	publisher filename; acoustic semantic verification pending
+sfx-022	sfx-022.mp3	allergies-roll.mp3	약병 굴리기	Allergies - Roll 2.wav	publisher filename; acoustic semantic verification pending
+sfx-024	sfx-024.mp3	bottle-pop.mp3	병 뚜껑 따는 소리	Bottle Pop 1.wav	publisher filename; acoustic semantic verification pending
+sfx-025	sfx-025.mp3	cap-click.mp3	뚜껑 클릭	Cap Click 2.wav	publisher filename; acoustic semantic verification pending
+sfx-027	sfx-027.mp3	big-knife-scrape.mp3	큰 칼 긁기	Big Knife - Scrape 1.wav	publisher filename; acoustic semantic verification pending
+sfx-028	sfx-028.mp3	big-knife-sheath.mp3	큰 칼 칼집에 넣기	Big Knife - Sheath 2.wav	publisher filename; acoustic semantic verification pending
+sfx-030	sfx-030.mp3	big-knife-unsheath.mp3	큰 칼 빼기	Big Knife - Unsheath 2.wav	publisher filename; acoustic semantic verification pending
+sfx-032	sfx-032.mp3	caress-paper.mp3	종이 문지르기	Caress Paper.wav	publisher filename; acoustic semantic verification pending
+sfx-033	sfx-033.mp3	cut-paper.mp3	종이 자르기	Cut Paper 8.wav	publisher filename; acoustic semantic verification pending
+sfx-034	sfx-034.mp3	dry-cut.mp3	마른 종이 절단	Dry Cut 1.wav	publisher filename; acoustic semantic verification pending
+sfx-035	sfx-035.mp3	floppy-paper.mp3	얇은 종이 흔들기	Floppy Paper.wav	publisher filename; acoustic semantic verification pending
+sfx-037	sfx-037.mp3	small-can-crush.mp3	작은 캔 찌그러뜨리기	Small Can - Crush 2.wav	publisher filename; acoustic semantic verification pending
+sfx-039	sfx-039.mp3	small-can-drag-on-tile.mp3	타일 위 캔 끌기	Small Can - Drag on Tile.wav	publisher filename; acoustic semantic verification pending
+sfx-040	sfx-040.mp3	small-can-flick-tab.mp3	캔 탭 튕기기	Small Can - Flick Tab 2.wav	publisher filename; acoustic semantic verification pending
+sfx-042	sfx-042.mp3	belt-handle.mp3	벨트 손잡이	beltHandle1.ogg	publisher filename; acoustic semantic verification pending
+sfx-043	sfx-043.mp3	book-close.mp3	책 닫기	bookClose.ogg	publisher filename; acoustic semantic verification pending
+sfx-045	sfx-045.mp3	book-open.mp3	책 열기	bookOpen.ogg	publisher filename; acoustic semantic verification pending
+sfx-046	sfx-046.mp3	book-place.mp3	책 내려놓기	bookPlace3.ogg	publisher filename; acoustic semantic verification pending
+sfx-047	sfx-047.mp3	cloth-movement.mp3	천 움직임	cloth4.ogg	publisher filename; acoustic semantic verification pending
+sfx-049	sfx-049.mp3	creak.mp3	삐걱거리는 소리	creak3.ogg	publisher filename; acoustic semantic verification pending
+sfx-050	sfx-050.mp3	door-close.mp3	문 닫기	doorClose_4.ogg	publisher filename; acoustic semantic verification pending
+sfx-051	sfx-051.mp3	door-open.mp3	문 열기	doorOpen_1.ogg	publisher filename; acoustic semantic verification pending
+sfx-052	sfx-052.mp3	dishes.mp3	접시 부딪힘	dishes_04.ogg	publisher filename; acoustic semantic verification pending
+sfx-057	sfx-057.mp3	key-unlock.mp3	열쇠로 잠금 해제	key_open_02.ogg	publisher filename; acoustic semantic verification pending
+sfx-063	sfx-063.mp3	water-boiling.mp3	물이 끓는 소리	water_boiling.ogg	publisher filename; acoustic semantic verification pending
+sfx-064	sfx-064.mp3	water-flowing.mp3	물 흐르는 소리	water_flowing.ogg	publisher filename; acoustic semantic verification pending
+sfx-067	sfx-067.mp3	bubble.mp3	기포 소리	bubble_02.ogg	publisher filename; acoustic semantic verification pending
+sfx-068	sfx-068.mp3	bubble-loop.mp3	거품 반복음	loop_bubbles_1.ogg	publisher filename; acoustic semantic verification pending
+sfx-069	sfx-069.mp3	rain-loop.mp3	빗소리 반복음	loop_rain.ogg	publisher filename; acoustic semantic verification pending
+sfx-070	sfx-070.mp3	water-loop.mp3	물 흐름 반복음	loop_water_03.ogg	publisher filename; acoustic semantic verification pending
+sfx-072	sfx-072.mp3	splash.mp3	물 튀기는 소리	splash_09.ogg	publisher filename; acoustic semantic verification pending
+sfx-073	sfx-073.mp3	air-sound.mp3	공기 움직임 효과음	sfx100v2_air_03.ogg	publisher filename; acoustic semantic verification pending
+sfx-076	sfx-076.mp3	wet-footsteps.mp3	젖은 바닥 발걸음	sfx100v2_footstep_wet_01.ogg	publisher filename; acoustic semantic verification pending
+sfx-077	sfx-077.mp3	wooden-footsteps.mp3	나무 바닥 발걸음	sfx100v2_footstep_wood_03.ogg	publisher filename; acoustic semantic verification pending
+sfx-149	sfx-149.mp3	ocean-waves.mp3	바다 파도	ocean.mp3	publisher filename; acoustic semantic verification pending
+sfx-150	sfx-150.mp3	rain-on-window.mp3	창문에 내리는 비	rain.mp3	publisher filename; acoustic semantic verification pending
+sfx-151	sfx-151.mp3	fireplace-crackling.mp3	장작불 타는 소리	fireplace.mp3	publisher filename; acoustic semantic verification pending
+sfx-152	sfx-152.mp3	wind-ambience.mp3	바람 소리	wind.mp3	publisher filename; acoustic semantic verification pending
+sfx-153	sfx-153.mp3	morning-birds.mp3	새벽 새소리	birds.mp3	publisher filename; acoustic semantic verification pending
+sfx-154	sfx-154.mp3	flowing-creek.mp3	시냇물	stream.mp3	publisher filename; acoustic semantic verification pending
+sfx-079	sfx-079.mp3	object-breaking.mp3	물체 부서짐	bfh1_breaking_03.ogg	publisher filename; acoustic semantic verification pending
+sfx-080	sfx-080.mp3	object-falling.mp3	물체 떨어짐	bfh1_falling_06.ogg	publisher filename; acoustic semantic verification pending
+sfx-081	sfx-081.mp3	glass-breaking.mp3	유리 깨짐	bfh1_glass_breaking_02.ogg	publisher filename; acoustic semantic verification pending
+sfx-082	sfx-082.mp3	glass-falling.mp3	유리 떨어짐	bfh1_glass_falling_01.ogg	publisher filename; acoustic semantic verification pending
+sfx-083	sfx-083.mp3	glass-hit.mp3	유리 충격	bfh1_glass_hit_01.ogg	publisher filename; acoustic semantic verification pending
+sfx-084	sfx-084.mp3	generic-impact.mp3	일반 충격	bfh1_hit_05.ogg	publisher filename; acoustic semantic verification pending
+sfx-085	sfx-085.mp3	metal-falling.mp3	금속 떨어짐	bfh1_metal_falling_03.ogg	publisher filename; acoustic semantic verification pending
+sfx-086	sfx-086.mp3	metal-hit.mp3	금속 타격	bfh1_metal_hit_01.ogg	publisher filename; acoustic semantic verification pending
+sfx-088	sfx-088.mp3	rock-breaking.mp3	바위 부서짐	bfh1_rock_breaking_03.ogg	publisher filename; acoustic semantic verification pending
+sfx-089	sfx-089.mp3	rock-falling.mp3	바위 떨어짐	bfh1_rock_falling_06.ogg	publisher filename; acoustic semantic verification pending
+sfx-096	sfx-096.mp3	impact-bell-heavy.mp3	무거운 종 충돌	impactBell_heavy_004.ogg	publisher filename; acoustic semantic verification pending
+sfx-098	sfx-098.mp3	impact-glass-heavy.mp3	강한 유리 충격	impactGlass_heavy_003.ogg	publisher filename; acoustic semantic verification pending
+sfx-099	sfx-099.mp3	impact-glass-light.mp3	가벼운 유리 충격	impactGlass_light_000.ogg	publisher filename; acoustic semantic verification pending
+sfx-100	sfx-100.mp3	impact-glass-medium.mp3	보통 유리 충격	impactGlass_medium_002.ogg	publisher filename; acoustic semantic verification pending
+sfx-102	sfx-102.mp3	impact-metal-light.mp3	가벼운 금속 충격	impactMetal_light_004.ogg	publisher filename; acoustic semantic verification pending
+sfx-104	sfx-104.mp3	hammer.mp3	망치질	hammer_02.ogg	publisher filename; acoustic semantic verification pending
+sfx-106	sfx-106.mp3	metal-close.mp3	금속 닫힘	metal_close_01.ogg	publisher filename; acoustic semantic verification pending
+sfx-107	sfx-107.mp3	metal-falling-02.mp3	금속 떨어짐 2	metal_falling_02.ogg	publisher filename; acoustic semantic verification pending
+sfx-108	sfx-108.mp3	metal-hit-02.mp3	금속 타격 2	metal_hit_01.ogg	publisher filename; acoustic semantic verification pending
+sfx-111	sfx-111.mp3	metal-slam.mp3	금속 쾅 닫힘	metal_slam_01.ogg	publisher filename; acoustic semantic verification pending
+sfx-112	sfx-112.mp3	cable-coiler.mp3	케이블 감는 장치	Cable Coiler 1.wav	publisher filename; acoustic semantic verification pending
+sfx-113	sfx-113.mp3	click-button.mp3	기계식 버튼	Click Button 3.wav	publisher filename; acoustic semantic verification pending
+sfx-114	sfx-114.mp3	jagged-scissors.mp3	불규칙한 가위질	Jagged Scissors 2.wav	publisher filename; acoustic semantic verification pending
+sfx-115	sfx-115.mp3	pipe-wrench.mp3	파이프 렌치	Pipe Wrench 1.wav	publisher filename; acoustic semantic verification pending
+sfx-116	sfx-116.mp3	ratchet-harsh.mp3	거친 래칫	Ratchet Harsh 1.wav	publisher filename; acoustic semantic verification pending
+sfx-117	sfx-117.mp3	ratchet-muted.mp3	조용한 래칫	Ratchet Muted 1.wav	publisher filename; acoustic semantic verification pending
+sfx-118	sfx-118.mp3	spring-loaded-blade.mp3	스프링 장치	Spring Loaded Blade 2.wav	publisher filename; acoustic semantic verification pending
+sfx-119	sfx-119.mp3	big-metal-brush.mp3	큰 금속 솔	Big Metal Brush 3.wav	publisher filename; acoustic semantic verification pending
+sfx-122	sfx-122.mp3	close-drawer.mp3	서랍 닫기	Close Drawer 2.wav	publisher filename; acoustic semantic verification pending
+sfx-123	sfx-123.mp3	crinkly-plastic.mp3	비닐 구겨짐	Crinkly Plastic.wav	publisher filename; acoustic semantic verification pending
+sfx-124	sfx-124.mp3	drawer-move.mp3	서랍 움직임	Drawer Move.wav	publisher filename; acoustic semantic verification pending
+sfx-125	sfx-125.mp3	flashlight-clicky.mp3	손전등 버튼	Flashlight Clicky 1.wav	publisher filename; acoustic semantic verification pending
+sfx-126	sfx-126.mp3	classic-swish.mp3	고전적인 휙 소리	Classic Swish 2.wav	publisher filename; acoustic semantic verification pending
+sfx-127	sfx-127.mp3	combo-whoosh.mp3	복합 휙 소리	Combo 1.wav	publisher filename; acoustic semantic verification pending
+sfx-128	sfx-128.mp3	gentle-swish.mp3	부드러운 휙 소리	Gentle Swish.wav	publisher filename; acoustic semantic verification pending
+sfx-129	sfx-129.mp3	slash-whoosh.mp3	빠른 베기 효과	Slash.wav	publisher filename; acoustic semantic verification pending
+sfx-130	sfx-130.mp3	swish-whoosh.mp3	휙 지나가는 소리	Swish 4.wav	publisher filename; acoustic semantic verification pending
+sfx-131	sfx-131.mp3	thunk.mp3	둔탁한 타격	Thunk 1.wav	publisher filename; acoustic semantic verification pending
+sfx-132	sfx-132.mp3	twirling-whoosh.mp3	빙글 도는 효과음	Twirl 2.wav	publisher filename; acoustic semantic verification pending
+sfx-134	sfx-134.mp3	unusual-sound-effect.mp3	기묘한 합성 효과	weird_23.ogg	publisher filename; acoustic semantic verification pending
+sfx-135	sfx-135.mp3	explosion-effect.mp3	SF 폭발 효과	explosion_02.ogg	publisher filename; acoustic semantic verification pending
+sfx-136	sfx-136.mp3	ambience-loop.mp3	SF 분위기 반복음	loop_ambient_01.ogg	publisher filename; acoustic semantic verification pending
+sfx-137	sfx-137.mp3	unusual-ambience-loop.mp3	기묘한 SF 분위기 반복음	loop_ambient_weird.ogg	publisher filename; acoustic semantic verification pending
+sfx-138	sfx-138.mp3	machine-loop.mp3	SF 기계 반복음	loop_machine_01.ogg	publisher filename; acoustic semantic verification pending
+sfx-139	sfx-139.mp3	retro-beep.mp3	레트로 전자음	retro_beep_03.ogg	publisher filename; acoustic semantic verification pending
+sfx-143	sfx-143.mp3	burbling-sound.mp3	괴생명체 물방울 소리	burble_02.ogg	publisher filename; acoustic semantic verification pending
+sfx-147	sfx-147.mp3	confirmation-tone.mp3	확인 알림음	confirmation_001.ogg	publisher filename; acoustic semantic verification pending
